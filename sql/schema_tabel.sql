@@ -26,3 +26,5 @@ VALUES
     ('1247050203', 'Yuval', 'yuval@uin.com', 19, 2.90);
 
 SELECT * FROM SALAM.mahasiswas;
+
+select * from
